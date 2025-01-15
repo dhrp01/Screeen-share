@@ -1,5 +1,5 @@
 # Screeen Share
-Code to help understand the nitty-gritty around screen-sharing logic.
+In today's virtual world, when we all are studying/working from home, few things have become ubiquitous. Video calls over various platforms is one of them. Though this is a primitive design and not as great as Google's or Zoom's solution, we would like to share the logic behind this. Working on this algorithm, we learned a few other concepts such as communication between two entities, image processing, and compression.
 
 ## Demo Videos
 
